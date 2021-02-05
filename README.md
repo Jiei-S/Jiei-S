@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Jiei-S/Jiei-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiei-S&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiei-S&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+
+## プロフィール  
+新卒でWebサイト制作会社に入社。約2年、フロントエンドエンジニアとしてサイト制作に従事。  
+その後、社内ジョブローテーションによりWebディレクターになる。  
+
+ディレクター時代に自身のスキル不足を痛感。  
+技術的な知見を持ち合わせたディレクター・PMになりたいという想いから、  
+独学でPython、JavaScriptを学び、エンジニアとしてのキャリアを再スタート。  
+
+現在はWebアプリケーションのフロントエンド・バックエンド開発に従事しております。
+
+## 情報発信  
+粛々と活動しています。  
+
+#### 個人ブログ  
+日々学んだことの整理、アウトプットを目的とした情報発信。  
+[JのきまぐれITブログ](https://j-kimagure-it-blog.com/)
