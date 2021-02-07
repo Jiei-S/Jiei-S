@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiei-S&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 
 ## プロフィール  
-新卒でWebサイト制作会社に入社。約2年、フロントエンドエンジニアとしてサイト制作に従事。  
-その後、社内ジョブローテーションによりWebディレクターになる。  
+新卒でWebサイト制作会社に入社。フロントエンドエンジニア、Webディレクターとしてサイト制作に従事。  
 
 ディレクター時代に自身のスキル不足を痛感。  
 技術的な知見を持ち合わせたディレクター・PMになりたいという想いから、  
