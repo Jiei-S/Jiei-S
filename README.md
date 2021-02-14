@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiei-S&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiei-S&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiei-S&layout=compact)
 
 ## プロフィール  
 新卒でWebサイト制作会社に入社。フロントエンドエンジニア、Webディレクターとしてサイト制作に従事。  
