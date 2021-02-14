@@ -30,6 +30,10 @@ Here are some ideas to get you started:
 ## 情報発信  
 粛々と活動しています。  
 
+#### ポートフォリオサイト  
+自身のスキルや個人で開発したプロダクトをまとめております。  
+[ポートフォリオサイト ](https://jiei-s.github.io/portfolio/)
+
 #### 個人ブログ  
 日々学んだことの整理、アウトプットを目的とした情報発信。  
 [JのきまぐれITブログ](https://j-kimagure-it-blog.com/)
